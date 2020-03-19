@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am a nice guy*
+_I try to work out_
+
+**I am learning to play piano**
+__I can walk pretty fast__
+
+_What **a great** list_
